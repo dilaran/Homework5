@@ -1,0 +1,74 @@
+.proshlo {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.nastoyashee {
+    background-color: #ce8f8b;
+    color: white;
+    cursor: pointer;
+}
+
+.budushee {
+    background-color: #2f582f;
+    color: white;
+    cursor: text;
+    cursor: pointer;
+}
+
+.saveBtn {
+    background-color: palevioletred;
+    min-height: 80px;
+    cursor: pointer;
+    position: relative;
+    cursor: pointer;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#icon:hover {
+    font-size: 40px;
+    transition: all .2s ease-in-out;
+}
+
+#icon {
+    margin: 0 auto;
+    padding-right: 40px;
+    padding-top: 5px;
+}
+.body {
+    font-size: 15px;
+}
+
+#header {
+    text-align: center;
+    color: black;
+    border-bottom: 10px solid black;
+}
+
+.textArea {
+   
+    border: 1px dotted gray; 
+    border-left: 1px solid pink;
+    text-align: center;
+    width:100%;
+    min-height: 80px;
+}
+
+.time-block {
+    text-align: center;
+}
+
+.row {
+    height: 80px;
+    border-top: 1px solid black;
+    margin-top: 2px;
+}
+
+.hour {
+    background-color:plum;
+    color: #000000;
+    border-top: 1px;
+    border-left: 1px;
+}
+
